@@ -1,0 +1,6 @@
+E:\VS Projects\DataStructure\BrackProblem\BrackProblem\bin\Debug\BrackProblem.exe.config
+E:\VS Projects\DataStructure\BrackProblem\BrackProblem\bin\Debug\BrackProblem.exe
+E:\VS Projects\DataStructure\BrackProblem\BrackProblem\bin\Debug\BrackProblem.pdb
+E:\VS Projects\DataStructure\BrackProblem\BrackProblem\obj\Debug\BrackProblem.csprojResolveAssemblyReference.cache
+E:\VS Projects\DataStructure\BrackProblem\BrackProblem\obj\Debug\BrackProblem.exe
+E:\VS Projects\DataStructure\BrackProblem\BrackProblem\obj\Debug\BrackProblem.pdb
