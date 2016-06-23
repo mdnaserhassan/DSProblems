@@ -6,24 +6,9 @@ using System.Threading.Tasks;
 
 namespace BrackProblem
 {
-    class Program
+    class StackProblems
     {
-        static void Main(string[] args)
-        {
-            string input = "[[()]{}]";
-           int count= CheckBracket(input);
-           if (count > 0)
-           {
-               Console.WriteLine("False");
-           }
-           else
-           {
-               Console.WriteLine("True");
-           }
-            Console.ReadLine();
-        }
-
-        private static int CheckBracket(string input)
+        public  int CheckBracket(string input)
         {
             char[] inputs = input.ToArray();
             Stack<char> openBracket = new Stack<char>();
@@ -65,5 +50,25 @@ namespace BrackProblem
 
 
         }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = "[[()]{}]";
+            StackProblems sp = new StackProblems();
+            int count = sp.CheckBracket(input);
+           if (count > 0)
+           {
+               Console.WriteLine("False");
+           }
+           else
+           {
+               Console.WriteLine("True");
+           }
+            Console.ReadLine();
+        }
+
+        
     }
 }
