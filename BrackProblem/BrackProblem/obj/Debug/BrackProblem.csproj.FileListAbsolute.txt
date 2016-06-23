@@ -3,3 +3,6 @@ E:\VS Projects\DataStructure\BrackProblem\BrackProblem\bin\Debug\BrackProblem.ex
 E:\VS Projects\DataStructure\BrackProblem\BrackProblem\bin\Debug\BrackProblem.pdb
 E:\VS Projects\DataStructure\BrackProblem\BrackProblem\obj\Debug\BrackProblem.exe
 E:\VS Projects\DataStructure\BrackProblem\BrackProblem\obj\Debug\BrackProblem.pdb
+E:\gitrepo\dsProblems\BrackProblem\BrackProblem\bin\Debug\BrackProblem.exe.config
+E:\gitrepo\dsProblems\BrackProblem\BrackProblem\obj\Debug\BrackProblem.exe
+E:\gitrepo\dsProblems\BrackProblem\BrackProblem\obj\Debug\BrackProblem.pdb

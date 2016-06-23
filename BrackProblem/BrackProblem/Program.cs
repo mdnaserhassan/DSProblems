@@ -8,6 +8,11 @@ namespace BrackProblem
 {
     class StackProblems
     {
+        /// <summary>
+        /// This Method returns true if for all open brackets in a string there is closed bracket
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public  int CheckBracket(string input)
         {
             char[] inputs = input.ToArray();
