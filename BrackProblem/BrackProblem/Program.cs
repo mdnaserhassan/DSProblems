@@ -14,14 +14,18 @@ namespace BrackProblem
             string input = "[[()]{}]";
             StackProblems sp = new StackProblems();
             int count = sp.CheckBracket(input);
-           if (count > 0)
-           {
-               Console.WriteLine("False");
-           }
-           else
-           {
-               Console.WriteLine("True");
-           }
+            if (count > 0)
+            {
+                Console.WriteLine("False");
+            }
+            else
+            {
+                Console.WriteLine("True");
+            }
+            StringHelper shelp = new StringHelper();
+            string input2 = Console.ReadLine();
+            Console.WriteLine(input2);
+            Console.WriteLine("Is the input palindrom ? {0}",shelp.CheckPalindrom(input2));
             Console.ReadLine();
         }
 
