@@ -6,29 +6,39 @@ using System.Threading.Tasks;
 
 namespace BrackProblem
 {
-    
+
     class Program
     {
         static void Main(string[] args)
         {
-            string input = "[[()]{}]";
-            StackProblems sp = new StackProblems();
-            int count = sp.CheckBracket(input);
-            if (count > 0)
+            //string input = "[[()]{}]";
+            //StackProblems sp = new StackProblems();
+            //int count = sp.CheckBracket(input);
+            //if (count > 0)
+            //{
+            //    Console.WriteLine("False");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("True");
+            //}
+            string check = "e";
+            while (check != "q")
             {
-                Console.WriteLine("False");
+                StringHelper shelp = new StringHelper();
+                Console.WriteLine("Enter Input to test");
+                string input2 = Console.ReadLine();
+                
+                Console.WriteLine("Is the input can be palindrom ? {0}", shelp.CanBePalindrom(input2));
+                Console.WriteLine("Enter q to exit anyother character to continue for other input");
+                check = Console.ReadLine();
             }
-            else
-            {
-                Console.WriteLine("True");
-            }
-            StringHelper shelp = new StringHelper();
-            string input2 = Console.ReadLine();
-            Console.WriteLine(input2);
-            Console.WriteLine("Is the input palindrom ? {0}",shelp.CheckPalindrom(input2));
+
+
+
             Console.ReadLine();
         }
 
-        
+
     }
 }
