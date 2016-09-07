@@ -1,0 +1,6 @@
+E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\bin\Debug\DSProblem.exe.config
+E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\bin\Debug\DSProblem.exe
+E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\bin\Debug\DSProblem.pdb
+E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\obj\Debug\DSProblem.csprojResolveAssemblyReference.cache
+E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\obj\Debug\DSProblem.exe
+E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\obj\Debug\DSProblem.pdb

@@ -7,8 +7,8 @@
     <ProjectGuid>{B2BDA1C0-A6F1-457B-964F-E6AA1528E859}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BrackProblem</RootNamespace>
-    <AssemblyName>BrackProblem</AssemblyName>
+    <RootNamespace>DSProblem</RootNamespace>
+    <AssemblyName>DSProblem</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
