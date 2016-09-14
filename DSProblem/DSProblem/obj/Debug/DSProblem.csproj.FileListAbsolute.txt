@@ -4,3 +4,9 @@ E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\bin\Debug\DSProblem.p
 E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\obj\Debug\DSProblem.csprojResolveAssemblyReference.cache
 E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\obj\Debug\DSProblem.exe
 E:\VS Projects\DataStructure\DSProblem\DSProblem\DSProblem\obj\Debug\DSProblem.pdb
+E:\Work\githubCode\DSProblems\DSProblem\DSProblem\bin\Debug\DSProblem.exe.config
+E:\Work\githubCode\DSProblems\DSProblem\DSProblem\obj\Debug\DSProblem.exe
+E:\Work\githubCode\DSProblems\DSProblem\DSProblem\obj\Debug\DSProblem.pdb
+E:\Work\githubCode\DSProblems\DSProblem\DSProblem\bin\Debug\DSProblem.exe
+E:\Work\githubCode\DSProblems\DSProblem\DSProblem\bin\Debug\DSProblem.pdb
+E:\Work\githubCode\DSProblems\DSProblem\DSProblem\obj\Debug\DSProblem.csprojResolveAssemblyReference.cache
