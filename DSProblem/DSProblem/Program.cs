@@ -35,9 +35,9 @@ namespace BrackProblem
             //    check = Console.ReadLine();
             //}
             ArrayProblem arr = new ArrayProblem();
-            
-            
-            int i=arr.FindMajority(new int[]{1,2,1,2,1,2,1,2,3,4,4,5,6,1,1,1,1,1 });
+
+
+            int i = arr.FindMajority(new int[] { 2, 6, 1, 4, 2, 2, 2 });
 
 
 
