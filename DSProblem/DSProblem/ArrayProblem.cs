@@ -79,5 +79,36 @@ namespace DSProblem
             }
             return -1;
         }
+        public int NumberOddOccurrence(int [] input)
+        {
+            int Xor = 0;
+            for (int i = 0; i < input.Length; i++)
+            {
+                Xor = Xor ^ input[i];
+            }
+            return 1;
+        }
+        public void ReverseArray(int[] input)
+        {
+            int firstIndex = 0;
+            int lastIndex = input.Length - 1;
+            for (int i = 1; i < input.Length; i++)
+            {
+                if (firstIndex<lastIndex)
+                {
+                    int temp = input[firstIndex];
+                    input[firstIndex] = input[lastIndex];
+                    input[lastIndex] = temp;
+                    firstIndex++;
+                    lastIndex--;
+                   
+                }
+                if (firstIndex>=lastIndex)
+                {
+                    break;
+                }
+            }
+            
+        }
     }
 }

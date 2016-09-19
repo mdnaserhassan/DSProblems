@@ -37,8 +37,15 @@ namespace BrackProblem
             ArrayProblem arr = new ArrayProblem();
 
 
-            int i = arr.FindMajority(new int[] { 2, 6, 1, 4, 2, 2, 2 });
-
+            //int i = arr.FindMajority(new int[] { 2, 6, 1, 4, 2, 2, 2 });
+            //int i = arr.NumberOddOccurrence(new int[] { 2, 3, 5, 4, 5, 2, 4, 3, 5, 2, 4, 4, 2} );
+            int[] input=new int[]{1,2,3,4,5,6};
+            arr.ReverseArray(input);
+            for (int i = 0; i < input.Length; i++)
+            {
+                Console.WriteLine(input[i]);
+            }
+            //Console.WriteLine(input);
 
 
             Console.ReadLine();
