@@ -48,16 +48,6 @@ namespace BrackProblem
             //Console.WriteLine(input);
 
 
-            try
-            {
-
-            }
-            catch (Exception)
-            {
-
-                throw;
-            }
-            
             Console.ReadLine();
         }
 
